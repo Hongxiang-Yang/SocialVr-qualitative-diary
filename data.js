@@ -1,0 +1,718 @@
+window.VRCHAT_DIARY_DATA = {
+  "diary": [
+    {
+      "Session": 1,
+      "Date": "2025-08-13",
+      "Day": "Wednesday",
+      "Time Start": "13:56",
+      "Time End": "17:00",
+      "Duration (min)": 184,
+      "Platform": "VRChat",
+      "World": "1's Optimized World",
+      "World Type": "Social",
+      "Avatar Name": "VRChat Robot and first human avatar",
+      "Avatar Identity Strategy": "Default to congruent self",
+      "Norm Observed": "Avatar discovery",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "avatar discovery; entry cues; social uncertainty",
+      "Interactions (people)": 4,
+      "Conversations 5+ min": 0,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Participate in VR chat for the first time**\nWednesday, August 13, 2025, 13:56-17:00 pm I officially started my automatic ethnography journey, starting from one of the famous social VR platforms - VRCChat. After registering a new account, the system will automatically assign me a default avatar called \"vrchat robot\". Looking down, I can clearly see my mechanical arms and legs. Since I'm a complete newbie in VR chat, I feel a little overwhelmed and don't know what to do. Drawing on my past gaming experience, my first instinct is to take a quick look at the menu bar. There is a collection called avatar library, I clicked it and selected an avatar that doesn't look like an NPC. It's a handsome, human-like avatar, and I think it might make me look friendly. When I put on it, I summoned a mirror to see if this avatar was right for me. It looks good, but lacks details. In fact, the process of choosing from so many available avatars makes me feel a little hesitant. I decided to stick to this one for the time being. When I continued to explore, I noticed a button labeled *world*. Out of curiosity, I clicked on it, there are hundreds of virtual spaces, each space is created by players. I decided to go into a random method called \"1's optimized world\". Inside, I see people chatting with each other. This made me wonder: did they already know each other in advance, or did these vivid conversations happen between the first meeting of strangers? These questions remain in my mind. What impressed me even more was their incarnation. They are different from the standard presets I see in the official Avatar library. On the contrary, they are diverse and imaginative, some are towering and huge, some are small, some are fantasy, and even dark styles. Clearly, many of them were created by users themselves. I want to know: where are these avatars actually designed?",
+      "Diary Note (Chinese)": "**首次参与VR聊天**\n2025年8月13日星期三下午13:56-17:00我正式开始了我的自动民族志之旅,从著名的社交VR平台之一——VRCChat开始。注册一个新账号后,系统会自动为我分配一个默认的头像,叫做\"vrchat机器人\"。低头看去,我能清楚地看到我的机械胳膊和腿。由于我是VR聊天的新手,我感到有点不知所措,不知道该怎么办。借鉴我过去的游戏经验,我的第一反应是快速浏览一下菜单栏。有一个叫做头像库的集合,我点击它并选择了一个看起来不像NPC的头像。这是一个帅气的、像人类一样的头像,我想它可能会让我看起来很友好。当我穿上它时,我召唤了一面镜子,看看这个头像是否适合我。它看起来不错,但缺乏细节。事实上,从这么多可用的头像中进行选择的过程让我感到有些犹豫。我决定暂时坚持使用这个。当我继续探索时,我注意到了一个标有\"世界\"的按钮。出于好奇,我点击了它,有数百个虚拟空间,每个空间都是由玩家创建的。我决定进入一个随机的方法,称为\"1 的优化世界\"。在里面,我看到人们在互相聊天。这让我想知道:他们是早就认识了,还是在陌生人第一次见面之间发生了这些生动的对话?这些问题一直留在我的脑海里。更让我印象深刻的是他们的化身。它们与我在官方阿凡达库中看到的标准预设不同。相反,\n\nY是多样的,富有想象力的,有的巍峨巨大,有的很小,有的是幻想的,甚至是黑暗的风格。显然,其中很多都是用户自己创造的。我想知道:这些头像到底是在哪里设计的?",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "Automatic Chinese translation",
+      "Last Edited At": "2026-08-01T04:33:34.377000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 2,
+      "Date": "2025-08-15",
+      "Day": "Friday",
+      "Time Start": "14:08",
+      "Time End": "17:04",
+      "Duration (min)": 176,
+      "Platform": "VRChat",
+      "World": "1's Optimized World",
+      "World Type": "Social",
+      "Avatar Name": "The Idol",
+      "Avatar Identity Strategy": "Congruent self",
+      "Norm Observed": "World entry and greeting etiquette",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "avatar self presentation; greeting anxiety; social visibility",
+      "Interactions (people)": 3,
+      "Conversations 5+ min": 0,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Try avatar customisation and wear it on**\n15th, August 2025, Friday, 14:08-17:04 p.m.\n\nAfter seeing all those wildly different avatars in VRChat last time, I started wanting one avatar that looked more like me in real life. I searched through VRChat but couldn’t find any option to customise avatars directly in the platform. So, I Googled it, I learned that avatars are actually created on PC first and then uploaded to VRChat’s servers.\nI took off my Quest headset, I realized there were a few possible ways to make one: 1. using 3D software like Blender or Unity, and then using VRChat’s Creator Companion tool and SDK, or 2.\nusing online avatar customisation tool such as Ready Player Me website.\nIn the end, I went with Ready Player Me because it felt less cost and easier compared to the other options. I made the avatar based on how I see myself (with a bit of idealisation) and my own authentic preference in style. The mouth didn’t come out right, though, so I added a mask to cover it, which also gave it a cooler look.\n\nFinally, I upload the avatar to the VRChat cloud server. I put my HMD back on and tested whether it worked. Luckily, the avatar turned out to fit quite well in VRChat, and to my surprise I also discovered that I could use hand gestures instead of relying on the controllers. Standing in front of the mirror, I posed with my first realistic-looking avatar and took a snapshot.\n\nIn order to make it easier to distinguish this avatar from others I would use in the future, I gave it a name: ‘The Idol.’ After getting familiar with how its body moved, I couldn’t wait to start socialising. I went back into 1’s Optimized World.\n\nUpon arrival, I noticed a group gathered at the centre, chatting and listening to some pop music, discussing its rhythm. I was cautious and try not to interrupt or offend anyone, I chose to stay a bit further away and just observe quietly. The reason is, I had no idea how to start a conversation, especially since everyone seemed to already know each other.\n\nSuddenly, an anime-style avatar walked up to me and, with a deep voice, called out: ‘What’s up, bro?’ At first, I was startled. I quickly glanced around to make sure he was actually talking to me. His avatar looked like a dark anime character. Because of my social anxiety to stranger, I felt a little panicked and immediately backed away. He even started following me, which made me feel not good, so I quickly pulled up the menu wheel and returned to my spawn point.\n\nLooking back, I feel my reaction was not good. Maybe in VRChat, this kind of direct greeting is just how people naturally start conversations. Since it was my first time experiencing this as a newcomer, I got nervous. Next time, I might try to set aside my bias and social norms toward others' avatars and respond more openly. Overall, though, I got to settle into my new Idol avatar today, and I was even got a strike up for the first time. In this sense, this avatar does seem to attract attention.",
+      "Diary Note (Chinese)": "**尝试头像定制并穿上它**\n2025 年 8 月 15 日，星期五，下午 14:08-17:04 上次在 vrchat 中看到所有这些截然不同的头像后，我开始想要一个在现实生活中看起来更像我的头像。 我通过 vrchat 进行了搜索，但找不到任何直接在平台中自定义头像的选项。 所以，我用谷歌搜索了一下，我了解到头像实际上是在 PC 上创建的，然后上传到 vrchat 的服务器。 我摘下了我的 Quest 耳机，我意识到有几种可能的方法： 1. 使用 Blender 或 Unity 等 3D 软件，然后使用 VRCHAT 的 Creator Companion 工具和 SDK，或 2. 使用在线化身定制工具，如 Ready Player me 网站。 最后，我选择了 Ready Player Me，因为与其他选项相比，它的成本更低且更容易。 我根据我对自己的看法（有点理想化）和我自己在风格上的真实偏好制作了头像。 不过嘴巴不对，所以我加了一个面膜来覆盖它，这也让它看起来更凉爽了。 最后，我将头像上传到 vrchat 云服务器。 我重新打开我的 HMD 并测试它是否有效。 幸运的是，该头像在 vrchat 中非常适合，令我惊讶的是，我还发现我可以使用手势而不是依赖控制器。 站在镜子前，我带着我的第一个看起来逼真的化身，拍了一张快照。\n\n为了更容易区分这个化身和我将来会使用的其他化身，我给它起了一个名字：“偶像”。在熟悉了它的身体如何移动后，我迫不及待地开始社交。 我回到了 1 的优化世界。 抵达后，我注意到一群人聚集在中心，聊天和听一些流行音乐，讨论它的节奏。 我很谨慎，尽量不打扰或冒犯任何人，我选择留在更远的地方，安静地观察。 原因是，我不知道如何开始对话，特别是因为每个人似乎都已经认识了。 突然，一个动漫风格的头像走到我面前，用沉沉的声音喊道：“怎么了，兄弟？”起初，我被吓了一跳。 我迅速环顾四周，以确保他真的在和我说话。 他的头像看起来像一个黑暗的动漫角色。 由于我对陌生人的社交焦虑，我感到有点恐慌，立即退缩了。 他甚至开始跟着我，这让我感觉不好，所以我迅速拉起菜单轮，回到了我的产卵点。 回想起来，我觉得我的反应不好。 也许在 vrchat 中，这种直接的问候正是人们自然而然地开始对话的方式。 因为这是我作为新人第一次经历这种情况，所以我很紧张。 下一次，我可能会尝试摆脱对他人化身的偏见和社会规范，并更公开地回应。 不过，总的来说，我今天要适应我的新偶像头像，我什至第一次被击中。 从这个意义上说，这个化身似乎确实吸引了人们的注意力。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "Automatic Chinese translation",
+      "Last Edited At": "2026-08-01T04:35:55.023000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 3,
+      "Date": "2025-08-21",
+      "Day": "Thursday",
+      "Time Start": "16:04",
+      "Time End": "19:05",
+      "Duration (min)": 181,
+      "Platform": "VRChat",
+      "World": "Omegle VR and Prismic's Avatar Search",
+      "World Type": "Social and avatar world",
+      "Avatar Name": "The Idol",
+      "Avatar Identity Strategy": "Congruent self",
+      "Norm Observed": "World entry and greeting etiquette",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "greeting etiquette; avatar expression; safety rank; real world bias",
+      "Interactions (people)": 13,
+      "Conversations 5+ min": 3,
+      "Harassment/Toxicity": "Severe",
+      "Diary Note": "**My First Successful Greeting in VR Chat**\n21st, August 2025, Thursday, 16:04-19:05 p.m.\n\nBefore entering VR Chat today, I had decided to actively start conversations with others, to explore the “greeting” norms in VRChat.\n\nI entered the world and chose a scene described as welcoming for meeting strangers and very open to social interaction. The scene was called The Black Cat, a dimly lit bar where people seemed to be engaged in a conversation already. I tried to greet them, but I found it difficult to join in, probably because there were too many people and the environment was noisy.\n\nI returned to the world selection interface, aiming to find a smaller and more private world. I discovered a scene that suited my needs: Omegle VR. This scene has a virtual bedroom, complete with a bed, a computer, and a virtual webcam. The computer interface displayed a “match” function, allowing players to pair and have virtual video calls in Social VR. **For me, this was a completely new experience: we shared the same virtual space, yet interacted via virtual video call.**\n\nI began pairing then. About ten seconds, I was matched with a player named TrudeDragon. On the other side of the camera, he had three other people, their avatars were: a black dragon, a gorilla, and a small white dragon. I greeted the black dragon first, asking, “How are you doing?” He replied, “Good,” and greeted me in return. He said that my avatar looked like an idol, to which I responded that it reflected the style I wanted to present and bore some resemblance to my real appearance. They laughed.\n\nI asked him where he was from, and he said Portugal. Then I asked why he chose that avatar. He explained that it represented his favourtie creature. He said, “I really like dragons, and I want to be a dragon; this form represents my sense of power. That’s why I chose a four-limbed dragon.” I asked if he designed the avatar himself, and he confirmed, saying he had created it using Unity. I said not everyone is an IT engineer who can create a custom avatar using Unity. He agreed and said many people choose to copy avatars instead. He mentioned that there is a avatar library larger than the official one.\n\nDuring our conversation, the gorilla suddenly performed a backflip. 'How cool it was!' and I asked how I could enable similar abilities for my avatar. BlackDragon explained that it depends on the features added during the avatar’s design and invited me to visit his room if I wanted to explore further. I accepted. In his room, everyone greeted me warmly, as if we were meeting in real life, a magical feeling.\n\nThe gorilla performed another backflip and handed me a banana; they were genuinely fun to interact with. After chatting for a while, Trude Dragon mentioned that his VR headset was running out of battery and that he would invite me to meet again later. I returned to my room to continue pairing.\n\nThe next match was with a robot avatar, which resembled the system’s default robot. We exchanged brief greetings. I was curious and asked him why he chose this avatar. He said he wanted to be unobtrusive in VR Chat and the robot looked normal but had some clever features, such as playing music. However, I could not hear any sound. He said my **privacy settings** might be too high and showed me how to adjust them. Indeed, I was at a “visitor” level; after upgrading to “User,” I unlocked more interactive functions.\n\nI asked him where he was from; he replied Germany.\n\nI later paired with several more users, some children made offensive words such as “Whats up niggar” and “White power, niggar.” Hearing these words made me feel uncomfortable.\n\nLater, Trude Dragon sent me a world invitation, I accepted. I entered a world called *Prismic’s Avatar Search*. He said, “Nice to see you again; this is the avatar world I mentioned before, created by players. It contains a wider variety of avatars than the official repository. You can search by avatar name or filter by characteristics.” I tried searching for humanoid avatars, most of which were Japanese anime characters, not to my taste. I added a “realistic” filter and found characters from the CS game I often played. Trude Dragon said, “You did it!”",
+      "Diary Note (Chinese)": "**我在 VR 聊天中第一次成功的问候**\n2025年8月21日,星期四,下午16:04-19:05 今天,在进入VR Chat之前,我决定积极地与他人开始对话,探索VRChat中的\"问候语\"规范,我进入了这个世界,选择了一个被描述为欢迎与陌生人见面的场景,并且对社交互动非常开放。这个场景被称为\"黑猫\",一个灯光昏暗的酒吧,人们似乎已经在进行对话了。我试图和他们打招呼,但我发现很难加入,可能是因为人太多了,环境很吵。我回到世界选择界面,旨在找到一个更小、更私密的世界。我发现了一个适合我需求的场景:Omegle VR。这个场景有一个虚拟卧室,配有一张床、一台电脑和一个虚拟网络摄像头。电脑界面显示了\"匹配\"功能,允许玩家在社交 VR 中配对并进行虚拟视频通话。**对我来说,这是一种全新的体验:我们共享同一个虚拟空间,但通过虚拟视频通话进行交互。然后我开始配对。大约十秒钟左右,我与一个名叫 TrudeDragon 的玩家进行了匹配。在镜头的另一边,他还有另外三个人,他们的头像是:一条黑龙、一条大猩猩和一条小白龙。我先向黑龙打招呼,问:\"你好吗?\"他回答说,\"很好\",并回应了我。他说我的头像像偶像,我回答说它反映了我想要呈现的风格,并且与我的真实外观有些相似。他们笑了。\n\n我问他来自哪里,他说是葡萄牙人。然后我问他为什么选择那个头像。他解释说,它代表了他最喜欢的生物。他说,\"我真的很喜欢龙,我想成为一条龙,这种形态代表了我的力量感。这就是我选择四肢龙的原因。我问他是否自己设计了头像,他确认了,说他是用 Unity 创建的。我说不是每个人都是 IT 工程师,可以使用 Unity 创建自定义头像。他同意了,并说很多人选择复制头像。他提到有一个比官方头像更大的头像库。在我们的谈话中,大猩猩突然表演了后空翻。\"这太酷了!\"我问我如何为我的头像启用类似的能力。黑龙解释说,这取决于头像设计时添加的功能,并邀请我想进一步探索,请我去参观他的房间。我接受了。在他的房间里,每个人都热情地迎接我,就像我们在现实生活中见面一样,一种神奇的感觉。大猩猩又做了一次后空翻,并递给我一根香蕉,与他们互动真的很有趣。聊了一会儿后,Trude Dragon 提到他的 VR 耳机没电了,他会邀请我稍后再见面。我回到我的房间继续配对。\n\n下一场比赛是与一个机器人头像,它类似于系统的默认机器人。我们简短地打了个招呼。我很好奇,问他为什么选择这个头像。他说他想在 VR 聊天中不引人注目,机器人看起来很正常,但有一些聪明的功能,比如播放音乐。但是,我听不到任何声音。他说我的**隐私设置**可能太高了,并告诉我如何调整它们。事实上,我处于\"访客\"级别,升级到\"用户\"后,我解锁了更多交互功能,我问他来自哪里,他回答说是德国。后来我又和几个用户配对了,一些孩子说了冒犯性的词语,比如\"黑鬼怎么了\"和\"白人力量,黑鬼\"。听到这些话让我感到不舒服。后来,Trude Dragon 给我发来了一个世界邀请,我接受了。我进入了一个名为 *Prismic’s Avatar Search* 的世界。他说,\"很高兴再次见到你,这就是我之前提到的头像世界,由玩家创建。它包含的头像种类比官方仓库更广泛。你可以按头像名称搜索或按特征进行筛选。我尝试搜索人形头像,其中大部分是日本动漫角色,不符合我的口味。我添加了一个\"现实\"过滤器,找到了我经常玩的 CS 游戏中的角色。Trude Dragon 说,\"你做到了!",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "Automatic Chinese translation",
+      "Last Edited At": "2026-08-01T04:33:39.447000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 4,
+      "Date": "2025-08-25",
+      "Day": "Monday",
+      "Time Start": "19:57",
+      "Time End": "20:58",
+      "Duration (min)": 61,
+      "Platform": "VRChat",
+      "World": "Avatar Museum",
+      "World Type": "Avatar world",
+      "Avatar Name": "The Student",
+      "Avatar Identity Strategy": "Congruent self",
+      "Norm Observed": "World entry and greeting etiquette",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety",
+      "Interactions (people)": 4,
+      "Conversations 5+ min": 0,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Waiting at the edge of the room**\n2025-08-25, Monday, 19:57-20:58 \n\nAfter entering vrchat today, now avatar I walked around in the library for a long time, but I seem to be a little immersed in it; I chose an avatar that looked like a student and entered avatar Museum; there are many people hanging up in front of the mirror, which I don't quite understand; I silently observe the incarnation of other people, not squeezed into the crowd in front of the mirror; I noticed that Tao seems to be looking at me, but seems to be looking at my actions again. I swayed at him and the user beside him, and asked, \"Are you comparing hip-hop, do I need to be able to dance, or can anyone continue to talk?\" But I think they are still very focused on themselves, so I didn't bother anymore.",
+      "Diary Note (Chinese)": "**在房间边缘等待,确认是否舒服**\n2025-08-25, 星期一 19:57-20:58 今天进入 vrchat 后,现在的阿凡达我在图书馆里走了很久,但我似乎有点沉浸其中;我选了一个学生样的阿凡达,进入了阿凡达博物馆;镜子前挂着很多人,我不太懂;我默默地观察着其他人的化身,没有挤进镜子前的人群中;我注意到 Tao 似乎在看我,但又似乎在看我的动作。我对着他和他身边的用户摇摆,问道:\"你是在比较嘻哈,我需要会跳舞,还是有人可以继续说话?但我觉得他们还是很专注于自己,所以我没有再费心了。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "English",
+      "Last Edited At": "2026-08-01T04:44:06.226000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 5,
+      "Date": "2025-08-26",
+      "Day": "Tuesday",
+      "Time Start": "20:14",
+      "Time End": "20:35",
+      "Duration (min)": 55,
+      "Platform": "VRChat",
+      "World": "Midnight Rooftop",
+      "World Type": "Chill",
+      "Avatar Name": "The Panda",
+      "Avatar Identity Strategy": "Nonhuman",
+      "Norm Observed": "Safety rank and permissions",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety",
+      "Interactions (people)": 4,
+      "Conversations 5+ min": 0,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Observe strangers**\n2025-08-26, Tuesday, 20:14-21:09 I found that some of the VR world lighting may distort some of the details of the avatar. I tested a few avatars and noticed that some avatars can dynamically adjust the light and dark details of the avatar according to the light, while others keep the initial color, which makes the avatar a bit like a 2D texture. I'm also curious how others see my incarnation, I approached Trudrone randomly and asked him, \"Hello, can my avatar be displayed by your side?\"; He answered no problem, and we chatted a few words along the way; I found that talking about each other's incarnation may be a good way to make friends with VR.",
+      "Diary Note (Chinese)": "**在午夜屋顶上观察陌生人**\n2025-08-26, 星期二, 20:14-21:09我发现一些 VR 世界光照可能会扭曲头像的一些细节。我测试了几个头像,发现有些头像可以根据光线动态调整头像的明暗细节,而有些头像则保留初始颜色,这使得头像有点像 2D 纹理。我也很好奇别人如何看待我的化身,我随机走近 Trudrone 问他,\"你好,我的头像可以展示在你身边吗?\";他回答没问题,我们一路上聊了几句话;我发现,谈论彼此的化身可能是与 VR 交朋友的好方法。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "English",
+      "Last Edited At": "2026-08-01T05:11:11.427000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 6,
+      "Date": "2025-08-27",
+      "Day": "Wednesday",
+      "Time Start": "19:59",
+      "Time End": "20:50",
+      "Duration (min)": 51,
+      "Platform": "VRChat",
+      "World": "1's Optimized World",
+      "World Type": "Social",
+      "Avatar Name": "The Idol",
+      "Avatar Identity Strategy": "Congruent self",
+      "Norm Observed": "Mic etiquette",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety",
+      "Interactions (people)": 5,
+      "Conversations 5+ min": 0,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Adjusting My Voice**\n2025-08-27, Wednesday, 19:59-20:50\n\nMy voice check in 1's Optimized World would be deliberately ordinary: one sentence at speaking volume, then a laugh to see whether the peaks distort. Haru could signal that the first part sounds fine but the laugh clips. I would lower the input a notch and continue chatting. However, I really do not like when people make a big show of testing their microphone for ten minutes. It completely breaks the natural feeling of the social space. For me, a quick and quiet fix is best. Then we can go back to having a normal conversation.",
+      "Diary Note (Chinese)": "**在 1 的优化世界中调整我的声音**\n2025-08-27, 星期三, 19:59-20:50 我的语音检定在1的优化世界中会刻意平凡：一句话音量，然后笑着看峰是否扭曲。 Haru 可以表明第一部分听起来不错，但笑声剪辑。 我会将输入降低一个档次并继续聊天。 我真的不喜欢人们在十分钟内测试他们的麦克风。 它完全打破了社交空间的自然感觉。 对我来说，快速而安静的修复是最好的。 然后我们可以回到正常的对话。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "English",
+      "Last Edited At": "2026-08-01T05:11:22.214000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 7,
+      "Date": "2025-08-29",
+      "Day": "Friday",
+      "Time Start": "21:37",
+      "Time End": "22:29",
+      "Duration (min)": 52,
+      "Platform": "VRChat",
+      "World": "VRCon Plaza",
+      "World Type": "Event",
+      "Avatar Name": "The Idol",
+      "Avatar Identity Strategy": "Congruent self",
+      "Norm Observed": "Safety rank and permissions",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety",
+      "Interactions (people)": 7,
+      "Conversations 5+ min": 2,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Safety Settings**\n2025-08-29, Friday, 21:37-22:29\n\nIt was so packed in there that Sam’s cool black dragon avatar just showed up as a default grey fallback bot at first. I didn't want my headset to freeze up, but I really wanted to see her dragon's wings in action, so I just selectively turned on the lowest safety setting. Trying to balance performance and visuals in massive crowds is always a headache! Afterwards, we just ducked into a quiet corner away from all the loud music and avatars so we could actually hear each other talk.",
+      "Diary Note (Chinese)": "**VRCON PLAZA中的偶像周围的安全设置**\n2025-08-29，星期五，21:37-22:29 在 VRCON 广场，我可能会注意到 Sam 的黑龙出现在其他任何事情上。 因为附近的活动人群是如此庞大，我只会启用我们试图看到的隐藏功能。 在这些非常拥挤的大型实例中管理安全设置始终是一个困难的平衡。 您想看到美丽的头像，但您还需要阻止您的计算机滞后和冻结。 Sam's Dragon 有一个非常酷的 Wing 动画，所以我只打开了它。 我们搬到远离喧闹的音乐化身的一个安静的角落，和平交谈。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "English",
+      "Last Edited At": "2026-08-01T05:11:32.103000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 8,
+      "Date": "2025-08-30",
+      "Day": "Saturday",
+      "Time Start": "21:12",
+      "Time End": "22:14",
+      "Duration (min)": 62,
+      "Platform": "VRChat",
+      "World": "Omegle VR",
+      "World Type": "Social",
+      "Avatar Name": "The Idol",
+      "Avatar Identity Strategy": "Congruent self",
+      "Norm Observed": "Avatar discovery",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety; avatar self presentation",
+      "Interactions (people)": 3,
+      "Conversations 5+ min": 0,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Making \"The Idol\" Feel Like Me**\n2025-08-30, Saturday, 21:12-22:14\n\nI decided to use Omegle VR as a quick test run for my new adjusted \"The Idol\" avatar, mostly because people switch avatars so fast that there's zero pressure if things look weird. Trudrone helped me check how my actual face tracking stacked up against the avatar's exaggerated idle animations.\n\nThe problem with built-in idle motions is that they can completely distort how people read you. If the avatar moves too twitchily or looks stressed, I will assume that strangers end up thinking I'm actually anxious in real life.\n\nTrudrone gave me a great tip on using hand gestures to override those nervous-looking facial defaults. After about 20 minutes of tweaking, I got it just right: a super calm, effortless posture. Now the avatar actually feels like me, and I'm ready to head over to the private world to hang out with my friends.",
+      "Diary Note (Chinese)": "**在加入对话之前选择偶像**\n2025-08-30，星期六，21:12-22:14 我可以使用 Omegle VR 作为对偶像的粗略测试，因为那里的人很快就会前进。 Trudrone 可能会在我保持头像的同时观看面部跟踪，然后将其与夸张的空闲动画进行比较。 如果闲置的动作使表情看起来比预期的更紧张，我会保持更安静的设置。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "English",
+      "Last Edited At": "2026-08-01T05:12:02.241000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 9,
+      "Date": "2025-09-02",
+      "Day": "Tuesday",
+      "Time Start": "20:14",
+      "Time End": "21:20",
+      "Duration (min)": 66,
+      "Platform": "VRChat",
+      "World": "The Black Cat",
+      "World Type": "Pub",
+      "Avatar Name": "The Student",
+      "Avatar Identity Strategy": "Congruent self",
+      "Norm Observed": "World entry and greeting etiquette",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety",
+      "Interactions (people)": 5,
+      "Conversations 5+ min": 0,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Small greetings feel difficult**\n2025-09-02, Tuesday, 20:14-21:20\n\nWalking into a public room always gives me a bit of anxiety, whether it's in the real world or online. Saying hi to people really isn't easy for me. When I saw Nico and his friends chatting, I didn't want to intrude, so I just stood quietly near the end of the bar, waiting for a pause in their conversation.\n\nUsing \"The Student\" avatar, I gave a tiny nod just to acknowledge them, making sure not to barge right into the middle of their group since that feels too rude. If one of them notices me and shifts over to make room, I feel instantly relieved and welcome. Only then will I try to throw out a simple \"how was your day?\"—though I'm always low-key worried my accent or plain English will awkward-silence the whole room.\n\nIf nobody turns around or makes space, I just stay quiet and let it go rather than forcing a conversation. Reading the room in VR is tough, so I'd much rather just listen and smile until someone actually invites me in.",
+      "Diary Note (Chinese)": "**小小的问候感觉很困难**\n2025-09-02, 星期二, 20:14-21:20 像黑猫一样进入公共房间对我来说总是有点吓人。 向人打招呼并不容易。 当我看到 Nico 和他的朋友们在说话时，我不想打断他们。 所以，我只是静静地站在酒吧的尽头附近。 我等着等他们停止说话。 当我使用学生头像时，我只是用我的头做了一个很小的点头来表明我在这里。 我确保我不会走进他们的团队中间，因为这感觉太粗鲁了。 如果他们中的一个看到我并移动一点以腾出空间，我感到宾至如归。 然后，我会试着说一些简单的话，比如世界看起来多么美好。 但如果没有人移动或看着我，我只是保持安静。 我让那一刻过去了，不要强迫他们和我说话。 很难知道什么时候用 VR 说话。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "English",
+      "Last Edited At": "2026-08-01T05:04:20.628000",
+      "Real World Spillover (Chinese)": null
+    },
+    {
+      "Session": 10,
+      "Date": "2025-09-03",
+      "Day": "Wednesday",
+      "Time Start": "20:56",
+      "Time End": "21:49",
+      "Duration (min)": 53,
+      "Platform": "VRChat",
+      "World": "Shrine",
+      "World Type": "Chill",
+      "Avatar Name": "The Chibi Fox",
+      "Avatar Identity Strategy": "Abstract",
+      "Norm Observed": "Safety rank and permissions",
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety",
+      "Interactions (people)": 3,
+      "Conversations 5+ min": 1,
+      "Harassment/Toxicity": "None",
+      "Diary Note": "**Chasing Peace in VRChat**\n2025-09-03, Wednesday, 20:56-21:49\n\nThose super customised avatars often come with blinding, intense particle effects that legit hurt my eyes, and I really didn't want crazy lasers or fire effects ruining the peaceful vibe of the shrine.\n\nKai was super patient compared to me. He just stood quietly by the lanterns so I could find a corner in the world to calm down. I really appreciate friends in VRChat who understand that I need a calm, clean screen to feel comfortable.\n\nHis anime avatar looked absolutely perfect in the soft lantern glow, and we spent the rest of the time just wandering through the quiet trees, chatting about our favourite anime.",
+      "Diary Note (Chinese)": "**通过安全菜单检查赤壁狐狸**\n2025-09-03, 星期三, 20:56-21:49 我想从日本神社的宁静一侧打开赤壁狐狸的安全视图，凯仍然在灯笼附近看到； 与其揭示每个被阻塞的特征，我会分别测试尾部和面部运动。 凯可能会说，“尾巴回来了，但粒子仍然隐藏着”，这对我来说是足够的信息。",
+      "Chinese Translation Status": "Machine translation — review needed",
+      "Last Edited Language": "English",
+      "Last Edited At": "2026-08-01T05:10:38.748000",
+      "Real World Spillover (Chinese)": null
+    }
+  ],
+  "summary": {
+    "Total Sessions": 233,
+    "Date Range": "2025-08-13 to 2026-07-23",
+    "Total Hours": 240.4,
+    "Avg Duration": 61.9,
+    "Total Interactions": 1530,
+    "Total 5+ min Conversations": 545,
+    "Avg Interactions people": 6.57,
+    "Avg 5+ min Conversations": 2.34,
+    "Harassment Rate": 0.15
+  },
+  "byPhase": [
+    {
+      "Diary Period": "Period 1: Entry and Orientation",
+      "Sessions": 30,
+      "Avg Duration": 72.7,
+      "Avg Interactions people": 4.67,
+      "Avg 5+ min Conversations": 0.83,
+      "Harassment Rate": 0.267,
+      "Dominant Themes": "entry cues; voice rhythm; avatar discovery; public room safety"
+    },
+    {
+      "Diary Period": "Period 2: Embodied Boundaries",
+      "Sessions": 36,
+      "Avg Duration": 61.9,
+      "Avg Interactions people": 5.53,
+      "Avg 5+ min Conversations": 1.56,
+      "Harassment Rate": 0.194,
+      "Dominant Themes": "virtual personal space; touch consent; gaze and distance; mirror privacy"
+    },
+    {
+      "Diary Period": "Period 3: Avatar Visibility",
+      "Sessions": 47,
+      "Avg Duration": 59.4,
+      "Avg Interactions people": 6.49,
+      "Avg 5+ min Conversations": 2.23,
+      "Harassment Rate": 0.128,
+      "Dominant Themes": "avatar visibility; privacy management; group belonging; self presentation"
+    },
+    {
+      "Diary Period": "Period 4: Offline Spillover",
+      "Sessions": 47,
+      "Avg Duration": 60.3,
+      "Avg Interactions people": 7.04,
+      "Avg 5+ min Conversations": 2.7,
+      "Harassment Rate": 0.128,
+      "Dominant Themes": "real world spillover; conversation entry; body boundary awareness; turn taking"
+    },
+    {
+      "Diary Period": "Period 5: Situated Etiquette",
+      "Sessions": 73,
+      "Avg Duration": 60.2,
+      "Avg Interactions people": 7.6,
+      "Avg 5+ min Conversations": 3.18,
+      "Harassment Rate": 0.11,
+      "Dominant Themes": "situated etiquette; self presentation strategy; ethical attention; comfort management"
+    }
+  ],
+  "byNorm": [
+    {
+      "Norm Observed": "Proximity and gaze etiquette",
+      "Sessions": 22,
+      "Avg Duration": 60.9,
+      "Avg Interactions people": 7.27,
+      "Avg 5+ min Conversations": 2.77,
+      "Harassment Rate": 0.045
+    },
+    {
+      "Norm Observed": "Contextual avatar choice",
+      "Sessions": 20,
+      "Avg Duration": 58.5,
+      "Avg Interactions people": 6.75,
+      "Avg 5+ min Conversations": 2.7,
+      "Harassment Rate": 0.15
+    },
+    {
+      "Norm Observed": "Screenshot consent",
+      "Sessions": 15,
+      "Avg Duration": 59.3,
+      "Avg Interactions people": 7.73,
+      "Avg 5+ min Conversations": 3.07,
+      "Harassment Rate": 0.2
+    },
+    {
+      "Norm Observed": "Group entry etiquette",
+      "Sessions": 14,
+      "Avg Duration": 59.6,
+      "Avg Interactions people": 7.29,
+      "Avg 5+ min Conversations": 2.79,
+      "Harassment Rate": 0.143
+    },
+    {
+      "Norm Observed": "Disruptive avatar avoidance",
+      "Sessions": 13,
+      "Avg Duration": 59.1,
+      "Avg Interactions people": 7.62,
+      "Avg 5+ min Conversations": 3,
+      "Harassment Rate": 0.077
+    },
+    {
+      "Norm Observed": "Event hosting norms",
+      "Sessions": 11,
+      "Avg Duration": 66.4,
+      "Avg Interactions people": 6.91,
+      "Avg 5+ min Conversations": 3,
+      "Harassment Rate": 0.091
+    },
+    {
+      "Norm Observed": "Touch and hug etiquette",
+      "Sessions": 11,
+      "Avg Duration": 58.3,
+      "Avg Interactions people": 8.18,
+      "Avg 5+ min Conversations": 3.36,
+      "Harassment Rate": 0
+    },
+    {
+      "Norm Observed": "Portal invitation etiquette",
+      "Sessions": 10,
+      "Avg Duration": 61,
+      "Avg Interactions people": 7.3,
+      "Avg 5+ min Conversations": 2.8,
+      "Harassment Rate": 0.1
+    },
+    {
+      "Norm Observed": "Avatar performance constraints",
+      "Sessions": 9,
+      "Avg Duration": 62.1,
+      "Avg Interactions people": 6.44,
+      "Avg 5+ min Conversations": 2.44,
+      "Harassment Rate": 0.222
+    },
+    {
+      "Norm Observed": "Group fit through avatar appearance",
+      "Sessions": 9,
+      "Avg Duration": 58.1,
+      "Avg Interactions people": 6.22,
+      "Avg 5+ min Conversations": 2.11,
+      "Harassment Rate": 0.111
+    },
+    {
+      "Norm Observed": "Real world turn taking spillover",
+      "Sessions": 8,
+      "Avg Duration": 61.3,
+      "Avg Interactions people": 6.13,
+      "Avg 5+ min Conversations": 2.88,
+      "Harassment Rate": 0
+    },
+    {
+      "Norm Observed": "Safety rank and permissions",
+      "Sessions": 8,
+      "Avg Duration": 53.8,
+      "Avg Interactions people": 4.25,
+      "Avg 5+ min Conversations": 0.75,
+      "Harassment Rate": 0.5
+    },
+    {
+      "Norm Observed": "Virtual personal space",
+      "Sessions": 8,
+      "Avg Duration": 59.4,
+      "Avg Interactions people": 3.75,
+      "Avg 5+ min Conversations": 0.88,
+      "Harassment Rate": 0.5
+    },
+    {
+      "Norm Observed": "Avatar discovery",
+      "Sessions": 7,
+      "Avg Duration": 82,
+      "Avg Interactions people": 4.71,
+      "Avg 5+ min Conversations": 1.14,
+      "Harassment Rate": 0
+    },
+    {
+      "Norm Observed": "Avatar size and comfort",
+      "Sessions": 7,
+      "Avg Duration": 61.7,
+      "Avg Interactions people": 7.71,
+      "Avg 5+ min Conversations": 2.71,
+      "Harassment Rate": 0.143
+    },
+    {
+      "Norm Observed": "Mirror etiquette",
+      "Sessions": 7,
+      "Avg Duration": 56.7,
+      "Avg Interactions people": 5.86,
+      "Avg 5+ min Conversations": 1.57,
+      "Harassment Rate": 0.286
+    },
+    {
+      "Norm Observed": "Real world gaze awareness",
+      "Sessions": 7,
+      "Avg Duration": 60.1,
+      "Avg Interactions people": 7.14,
+      "Avg 5+ min Conversations": 2.57,
+      "Harassment Rate": 0.286
+    },
+    {
+      "Norm Observed": "Voice and turn taking etiquette",
+      "Sessions": 7,
+      "Avg Duration": 61.9,
+      "Avg Interactions people": 6.57,
+      "Avg 5+ min Conversations": 2,
+      "Harassment Rate": 0
+    },
+    {
+      "Norm Observed": "World instance norms",
+      "Sessions": 7,
+      "Avg Duration": 64.7,
+      "Avg Interactions people": 5.71,
+      "Avg 5+ min Conversations": 1.43,
+      "Harassment Rate": 0
+    },
+    {
+      "Norm Observed": "Blocking and muting",
+      "Sessions": 6,
+      "Avg Duration": 62.2,
+      "Avg Interactions people": 5.17,
+      "Avg 5+ min Conversations": 1.5,
+      "Harassment Rate": 0.167
+    },
+    {
+      "Norm Observed": "Mic etiquette",
+      "Sessions": 6,
+      "Avg Duration": 61.2,
+      "Avg Interactions people": 4.33,
+      "Avg 5+ min Conversations": 0.67,
+      "Harassment Rate": 0.333
+    },
+    {
+      "Norm Observed": "Privacy through avatar choice",
+      "Sessions": 6,
+      "Avg Duration": 55.8,
+      "Avg Interactions people": 7.5,
+      "Avg 5+ min Conversations": 2.5,
+      "Harassment Rate": 0
+    },
+    {
+      "Norm Observed": "Real world distance spillover",
+      "Sessions": 6,
+      "Avg Duration": 62.5,
+      "Avg Interactions people": 6.5,
+      "Avg 5+ min Conversations": 2.67,
+      "Harassment Rate": 0.333
+    },
+    {
+      "Norm Observed": "World entry and greeting etiquette",
+      "Sessions": 5,
+      "Avg Duration": 108.4,
+      "Avg Interactions people": 6,
+      "Avg 5+ min Conversations": 0.8,
+      "Harassment Rate": 0.2
+    },
+    {
+      "Norm Observed": "Friend request etiquette",
+      "Sessions": 4,
+      "Avg Duration": 66.8,
+      "Avg Interactions people": 4.25,
+      "Avg 5+ min Conversations": 0.75,
+      "Harassment Rate": 0.25
+    }
+  ],
+  "byAvatarStrategy": [
+    {
+      "Avatar Identity Strategy": "Congruent self",
+      "Sessions": 92,
+      "Avg Duration": 65.1,
+      "Avg Interactions people": 6.25,
+      "Avg 5+ min Conversations": 2.15,
+      "Harassment Rate": 0.163
+    },
+    {
+      "Avatar Identity Strategy": "Nonhuman",
+      "Sessions": 63,
+      "Avg Duration": 58.4,
+      "Avg Interactions people": 6.49,
+      "Avg 5+ min Conversations": 2.3,
+      "Harassment Rate": 0.111
+    },
+    {
+      "Avatar Identity Strategy": "Abstract",
+      "Sessions": 40,
+      "Avg Duration": 59.6,
+      "Avg Interactions people": 6.72,
+      "Avg 5+ min Conversations": 2.5,
+      "Harassment Rate": 0.175
+    },
+    {
+      "Avatar Identity Strategy": "Different gender performance",
+      "Sessions": 27,
+      "Avg Duration": 59.4,
+      "Avg Interactions people": 7.37,
+      "Avg 5+ min Conversations": 2.63,
+      "Harassment Rate": 0.074
+    },
+    {
+      "Avatar Identity Strategy": "Different race performance",
+      "Sessions": 10,
+      "Avg Duration": 58.8,
+      "Avg Interactions people": 7.4,
+      "Avg 5+ min Conversations": 3.1,
+      "Harassment Rate": 0.4
+    },
+    {
+      "Avatar Identity Strategy": "Default to congruent self",
+      "Sessions": 1,
+      "Avg Duration": 184,
+      "Avg Interactions people": 4,
+      "Avg 5+ min Conversations": 0,
+      "Harassment Rate": 0
+    }
+  ],
+  "byTheme": [
+    {
+      "Theme Tags": "avatar visibility; privacy management; group belonging; self presentation; avatar self presentation",
+      "Sessions": 40,
+      "Avg Duration": 59,
+      "Avg Interactions people": 6.47,
+      "Avg 5+ min Conversations": 2.27,
+      "Harassment Rate": 0.15
+    },
+    {
+      "Theme Tags": "situated etiquette; self presentation strategy; ethical attention; comfort management",
+      "Sessions": 30,
+      "Avg Duration": 62.5,
+      "Avg Interactions people": 7.4,
+      "Avg 5+ min Conversations": 3.07,
+      "Harassment Rate": 0.167
+    },
+    {
+      "Theme Tags": "virtual personal space; touch consent; gaze and distance; mirror privacy",
+      "Sessions": 23,
+      "Avg Duration": 61.7,
+      "Avg Interactions people": 5.87,
+      "Avg 5+ min Conversations": 1.7,
+      "Harassment Rate": 0.13
+    },
+    {
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety",
+      "Sessions": 21,
+      "Avg Duration": 59.5,
+      "Avg Interactions people": 4.33,
+      "Avg 5+ min Conversations": 0.67,
+      "Harassment Rate": 0.333
+    },
+    {
+      "Theme Tags": "real world spillover; conversation entry; body boundary awareness; turn taking",
+      "Sessions": 20,
+      "Avg Duration": 59.5,
+      "Avg Interactions people": 7.25,
+      "Avg 5+ min Conversations": 2.7,
+      "Harassment Rate": 0.1
+    },
+    {
+      "Theme Tags": "situated etiquette; self presentation strategy; ethical attention; comfort management; avatar self presentation",
+      "Sessions": 18,
+      "Avg Duration": 59.4,
+      "Avg Interactions people": 7.78,
+      "Avg 5+ min Conversations": 3.39,
+      "Harassment Rate": 0.111
+    },
+    {
+      "Theme Tags": "situated etiquette; self presentation strategy; ethical attention; comfort management; gaze etiquette",
+      "Sessions": 17,
+      "Avg Duration": 59.2,
+      "Avg Interactions people": 7.41,
+      "Avg 5+ min Conversations": 3,
+      "Harassment Rate": 0.059
+    },
+    {
+      "Theme Tags": "real world spillover; conversation entry; body boundary awareness; turn taking; real world transfer",
+      "Sessions": 8,
+      "Avg Duration": 61.3,
+      "Avg Interactions people": 6.13,
+      "Avg 5+ min Conversations": 2.88,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "situated etiquette; self presentation strategy; ethical attention; comfort management; touch consent",
+      "Sessions": 8,
+      "Avg Duration": 55.6,
+      "Avg Interactions people": 8.38,
+      "Avg 5+ min Conversations": 3.5,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "virtual personal space; touch consent; gaze and distance; mirror privacy; personal space",
+      "Sessions": 8,
+      "Avg Duration": 59.4,
+      "Avg Interactions people": 3.75,
+      "Avg 5+ min Conversations": 0.88,
+      "Harassment Rate": 0.5
+    },
+    {
+      "Theme Tags": "avatar visibility; privacy management; group belonging; self presentation",
+      "Sessions": 7,
+      "Avg Duration": 61.9,
+      "Avg Interactions people": 6.57,
+      "Avg 5+ min Conversations": 2,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "real world spillover; conversation entry; body boundary awareness; turn taking; gaze etiquette",
+      "Sessions": 7,
+      "Avg Duration": 60.1,
+      "Avg Interactions people": 7.14,
+      "Avg 5+ min Conversations": 2.57,
+      "Harassment Rate": 0.286
+    },
+    {
+      "Theme Tags": "entry cues; voice rhythm; avatar discovery; public room safety; avatar self presentation",
+      "Sessions": 6,
+      "Avg Duration": 65,
+      "Avg Interactions people": 4.83,
+      "Avg 5+ min Conversations": 1.33,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "real world spillover; conversation entry; body boundary awareness; turn taking; avatar self presentation",
+      "Sessions": 6,
+      "Avg Duration": 59.7,
+      "Avg Interactions people": 8,
+      "Avg 5+ min Conversations": 2.67,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "real world spillover; conversation entry; body boundary awareness; turn taking; personal space",
+      "Sessions": 6,
+      "Avg Duration": 62.5,
+      "Avg Interactions people": 6.5,
+      "Avg 5+ min Conversations": 2.67,
+      "Harassment Rate": 0.333
+    },
+    {
+      "Theme Tags": "virtual personal space; touch consent; gaze and distance; mirror privacy; gaze etiquette",
+      "Sessions": 5,
+      "Avg Duration": 66.6,
+      "Avg Interactions people": 6.8,
+      "Avg 5+ min Conversations": 2,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "avatar discovery; entry cues; social uncertainty",
+      "Sessions": 1,
+      "Avg Duration": 184,
+      "Avg Interactions people": 4,
+      "Avg 5+ min Conversations": 0,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "avatar self presentation; greeting anxiety; social visibility",
+      "Sessions": 1,
+      "Avg Duration": 176,
+      "Avg Interactions people": 3,
+      "Avg 5+ min Conversations": 0,
+      "Harassment Rate": 0
+    },
+    {
+      "Theme Tags": "greeting etiquette; avatar expression; safety rank; real world bias",
+      "Sessions": 1,
+      "Avg Duration": 181,
+      "Avg Interactions people": 13,
+      "Avg 5+ min Conversations": 3,
+      "Harassment Rate": 1
+    }
+  ]
+};
