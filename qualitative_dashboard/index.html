@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Social VR Autoethnography Diary</title>
+    <link rel="stylesheet" href="styles.css?v=20260730-eye-care" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow" id="eyebrow">Social VR Autoethnography</p>
+          <h1 id="pageTitle">Social VR Autoethnography Diary</h1>
+        </div>
+        <div class="topbar-actions">
+          
+          <button
+            class="eye-care-toggle"
+            id="eyeCareToggle"
+            type="button"
+            aria-label="Enable eye-care reading mode"
+            aria-pressed="false"
+          >
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 18 2 18 2c1 5-2 10-7 11" />
+              <path d="M2 21c0-3 1.8-5.4 5.1-6.9C9.2 13 12 13 16 13" />
+            </svg>
+            <span id="eyeCareLabel">Eye care</span>
+          </button>
+          
+          
+        </div>
+      </header>
+
+      
+
+      <div class="workspace">
+        
+
+        <main class="content">
+          <section class="view active" id="sessionsView">
+            
+
+            <div class="diary-layout">
+              <section class="panel list-panel">
+                <div class="panel-head compact">
+                  <h2 id="timelineTitle">Diary Timeline</h2>
+                  <span id="resultCount" class="muted"></span>
+                </div>
+                <div id="diaryList" class="diary-list"></div>
+              </section>
+
+              <section class="panel detail-panel">
+                <div id="diaryDetail" class="diary-detail"></div>
+              </section>
+            </div>
+          </section>
+
+        </main>
+      </div>
+    </div>
+
+    <script src="data.js?v=20260730"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
