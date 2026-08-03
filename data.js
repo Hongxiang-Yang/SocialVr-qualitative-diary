@@ -847,7 +847,7 @@ window.VRCHAT_DIARY_DATA = {
       "Diary Note (Chinese)": null,
       "Chinese Translation Status": null,
       "Last Edited Language": "English",
-      "Last Edited At": "2026-08-03T10:45:18.305Z",
+      "Last Edited At": "2026-08-03T10:45:18.305000",
       "Real World Spillover (Chinese)": null
     },
     {
@@ -872,7 +872,7 @@ window.VRCHAT_DIARY_DATA = {
       "Diary Note (Chinese)": null,
       "Chinese Translation Status": null,
       "Last Edited Language": "English",
-      "Last Edited At": "2026-08-03T10:47:32.614Z",
+      "Last Edited At": "2026-08-03T10:47:32.614000",
       "Real World Spillover (Chinese)": null
     },
     {
@@ -897,7 +897,7 @@ window.VRCHAT_DIARY_DATA = {
       "Diary Note (Chinese)": null,
       "Chinese Translation Status": null,
       "Last Edited Language": "English",
-      "Last Edited At": "2026-08-03T10:49:24.052Z",
+      "Last Edited At": "2026-08-03T10:49:24.052000",
       "Real World Spillover (Chinese)": null
     },
     {
@@ -922,7 +922,7 @@ window.VRCHAT_DIARY_DATA = {
       "Diary Note (Chinese)": null,
       "Chinese Translation Status": null,
       "Last Edited Language": "English",
-      "Last Edited At": "2026-08-03T10:50:49.894Z",
+      "Last Edited At": "2026-08-03T10:50:49.894000",
       "Real World Spillover (Chinese)": null
     },
     {
@@ -947,7 +947,7 @@ window.VRCHAT_DIARY_DATA = {
       "Diary Note (Chinese)": null,
       "Chinese Translation Status": null,
       "Last Edited Language": "English",
-      "Last Edited At": "2026-08-03T10:51:24.888Z",
+      "Last Edited At": "2026-08-03T10:51:24.888000",
       "Real World Spillover (Chinese)": null
     },
     {
@@ -972,7 +972,7 @@ window.VRCHAT_DIARY_DATA = {
       "Diary Note (Chinese)": null,
       "Chinese Translation Status": null,
       "Last Edited Language": "English",
-      "Last Edited At": "2026-08-03T10:52:41.860Z",
+      "Last Edited At": "2026-08-03T10:52:41.860000",
       "Real World Spillover (Chinese)": null
     },
     {
@@ -997,9 +997,8 @@ window.VRCHAT_DIARY_DATA = {
       "Diary Note (Chinese)": "**默认化身破坏了沉浸感**\n2025-10-15，星期三，20:40-21:47 一些头像需要三十秒才能加载。 默认的灰色的 t-pose机器人 有时候让我觉得挺违和的。 这一点可能会破坏沉浸感和氛围感。我感觉是因为头显性能的问题。",
       "Chinese Translation Status": "Researcher edited in Chinese; English source updated by back-translation",
       "Last Edited Language": "Chinese; back-translated to English",
-      "Last Edited At": "2026-08-03T10:55:11.585Z",
-      "Real World Spillover (Chinese)": null,
-      "Real World Spillover": ""
+      "Last Edited At": "2026-08-03T10:55:11.585000",
+      "Real World Spillover (Chinese)": null
     }
   ],
   "summary": {
