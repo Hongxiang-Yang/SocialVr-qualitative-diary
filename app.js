@@ -944,7 +944,7 @@ function renderDiaryList(rows) {
           </span>
           <span>
             <span class="row-title">${escapeHtml(title)}</span>
-            <span class="row-meta">${escapeHtml(row.Date)} &middot; ${escapeHtml(row.World)} &middot; ${escapeHtml(displayValue(row["Norm Observed"]))}</span>
+            <span class="row-meta">${escapeHtml(row.Date)} &middot; ${escapeHtml(row.World)} &middot; ${escapeHtml(row["Avatar Name"])}</span>
           </span>
         </button>
       `;
@@ -1008,7 +1008,6 @@ function renderDiaryDetail(row) {
       ${detailCell(t("date"), `${row.Date}, ${displayValue(row.Day)}`)}
       ${detailCell(t("world"), row.World)}
       ${detailCell(t("avatar"), row["Avatar Name"])}
-      ${detailCell(t("norm"), displayValue(row["Norm Observed"]))}
     </div>
     <div class="diary-text">${formatDiary(diaryNote)}</div>
   `;
