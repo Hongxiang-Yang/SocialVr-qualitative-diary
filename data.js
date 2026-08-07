@@ -4509,7 +4509,7 @@ window.VRCHAT_DIARY_DATA = {
       "Interactions (people)": 10,
       "Conversations 5+ min": 3,
       "Harassment/Toxicity": "None",
-      "Diary Note": "**An Interesting Observation**\n2026-05-07, Thursday, 20:59–21:50\n\nNo notable observations were made inside VRChat today. However, my roommate mentioned that I have been laughing out loud in my room quite frequently recently, which struck him as a bit strange. Haha, if I were in his position, I would find it strange as well!",
+      "Diary Note": "**An Interesting Observation**\n2026-05-07, Thursday, 20:59-21:50\n\nI found that there’s always a lag before people fully step into character after changing avatars.\n\nSaw a player switch to a black-and-white anime avatar today. He kept chatting normally at first, but a few minutes later, he went completely cool. Another player swapped from a cat avatar to a Trump avatar, and after 5 minutes of silence, he randomly dropped: 'Nobody knows Iran better than me!'.  Oh my god!",
       "Diary Note (Chinese)": "**一点有趣的发现**\n2026-05-07，星期四，20:59-21:50\n\n没什么特别的发现在VRChat里，倒是我室友说我最近老在房间里大笑，有点奇怪。哈哈我换做是他我也会觉得很奇怪！",
       "Chinese Translation Status": "Researcher edited in Chinese; English source updated by back-translation",
       "Last Edited Language": "Chinese; back-translated to English",
